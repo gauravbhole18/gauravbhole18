@@ -6,7 +6,6 @@ I'm an Electronics & Communication engineer passionate about building intelligen
 
 ### 🔭 Currently Working On
 
-* ESP32-based drone flight controller
 * AI-powered object detection and pan-tilt tracking system
 * Industrial IoT dashboard for real-time monitoring
 * Embedded software and robotics projects
@@ -19,14 +18,6 @@ I'm an Electronics & Communication engineer passionate about building intelligen
 * ROS 2
 * Modern C++ for Robotics
 
-### 💻 Tech Stack
-
-* **Languages:** C, C++, Python
-* **Embedded:** ESP32, STM32, Arduino
-* **Robotics:** ROS 2, PlatformIO
-* **AI & Vision:** OpenCV, Ultralytics YOLO, MediaPipe
-* **Electronics:** PCB Design, Sensors, Motor Control
-* **Tools:** Git, GitHub, Fusion 360, VS Code
 
 ### 🎯 Interests
 
@@ -40,8 +31,6 @@ I'm an Electronics & Communication engineer passionate about building intelligen
 ### 📈 Goals
 
 * Build production-quality embedded and robotics projects.
-* Contribute to open-source embedded software.
-* Pursue graduate studies in Embedded Systems & Robotics.
 * Continuously learn and engineer solutions that solve real-world problems.
 
 *"Turning ideas into hardware, firmware, and intelligent systems."*
